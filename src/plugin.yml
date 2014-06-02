@@ -1,0 +1,5 @@
+name: MCMMOExpMultiplier
+main: mcmmoExpMultiplier.ExpMultiplier
+version: 1.0
+depend: [mcMMO]
+author: _Shevchik_
